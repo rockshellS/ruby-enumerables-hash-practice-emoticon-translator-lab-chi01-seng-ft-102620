@@ -12,6 +12,7 @@ def load_library(file_path)
   new_hash[key][:japanese] = value[1]
   end
 new_hash
+binding.pry
 end
 
 
